@@ -8,5 +8,8 @@ Rails.application.routes.draw do
   # User can create an account
   resources :registrations, only: [:create]
 
+  # API for Goals
+  resources :goals, only: [:create]
+
   root to: "static#home"
 end
