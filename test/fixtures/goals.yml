@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  squat: MyString
+  bench: MyString
+  deadlift: MyString
+  bodyweight: MyString
+  date: 2021-05-05
+
+two:
+  squat: MyString
+  bench: MyString
+  deadlift: MyString
+  bodyweight: MyString
+  date: 2021-05-05
